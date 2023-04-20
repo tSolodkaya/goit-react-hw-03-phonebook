@@ -1,0 +1,21 @@
+.filterContainer {
+  width: 600px;
+  margin: 0 auto 20px auto;
+  box-shadow: 0px 0px 5px 0px rgba(66, 68, 90, 1);
+  padding: 15px 20px;
+}
+
+.filterName {
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  margin: 0 auto 15px auto;
+}
+.filterInput {
+  padding: 10px;
+  padding-left: 10px;
+  display: block;
+  width: 90%;
+  margin: 10px auto 20px auto;
+  font-size: 20px;
+}
